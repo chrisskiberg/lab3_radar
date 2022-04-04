@@ -1,0 +1,35 @@
+Avstand 1 - lys 1 
+Navn	Stop 	Maalt
+1	35	1.20*60=72 
+2	30	1.1*60=66 
+3	34	1.13*60=67.8 
+
+Avstand 1 - lys 2
+Navn	Stop 	Maalt
+1	29	1.068*60=64.08 
+2	32	1.07*60=64.2 (her skjedde det en stor endring plutselig)
+3	29	1.13*60=67.8 
+
+Avstand 2 - lys 1
+Navn	Stop 	Maalt
+1	34	1.06*60=63.6 
+2	31	1.13*60=67.8 
+3	34	1.1*60=66 
+
+Avstand 2 - lys 3 (har ikke sjekket alle fargekanalene)
+Navn	Stop 	Maalt
+1	33	1.072*60=64.32 
+2	34	1.067*60=64.02 
+3	32	1.072*60=64.32
+
+Avstand 3 - lys 1
+Navn	Stop 	Maalt
+1	34	1.102*60=66.12 
+2	32	1.1*60=66 
+3	31	1.16*60=69.6 
+
+Avstand 3 - lys 3
+Navn	Stop 	Maalt
+1	32	
+2	31	
+3	35	1.47*60=88.2 
