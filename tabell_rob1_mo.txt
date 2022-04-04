@@ -1,0 +1,6 @@
+Navn	Manuelt 	Kamera
+maaling1_mobil_trans 	34	1.16*60=69.6 
+2	34	1.1*60=66 
+3 	29	
+4	30	1*60=60 
+5	29	
