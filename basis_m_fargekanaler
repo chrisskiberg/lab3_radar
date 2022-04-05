@@ -1,0 +1,55 @@
+Refleksjon 
+Navn	Manuelt 	Kamera	
+maaling1_basis_refl1_ny	37*2=74 	Roed fargekanal=72.12020033383432	
+		Groenn fargekanal=72.12020033395241
+		Blaa fargekanal=72.12020033383432
+2	38*2=76 	Roed fargekanal=78.13021702832543	
+		Groenn fargekanal=78.13021702832543
+		Blaa fargekanal=78.13021702832543
+maaling1_basis_refl3_ny	37*2=74 	Roed fargekanal=72.12020033383432	
+		Groenn fargekanal=72.12020033395241
+		Blaa fargekanal=74.12353923199802
+4	34*2=68   	Roed fargekanal=72.12020033383432	
+	/ 35*2=70 	Groenn fargekanal=76.12687813016173
+		Blaa fargekanal=72.12020033383432
+5	37*2=74 	Roed fargekanal=79.06588824011465	
+		Groenn fargekanal=79.06588824011465
+		Blaa fargekanal=79.06588824011465
+
+Trans
+Navn	Manuelt 	Kamera		SNR
+Maaling1_basis_trans1	40*2=80 	Roed fargekanal=78.13021702832543		
+		Groenn fargekanal=78.13021702832543
+		Blaa fargekanal=80.13355592648914
+2	41*2=82 	1.3*60=78 	Kan forklares med at lite lys, stor sanns. For dårlig	
+			
+			Grønt signal litt utenfor 
+3 	40*2=80 	Roed fargekanal=80.13355592648914		FILTRERT OVER ALLE FREKVENSER
+		Groenn fargekanal=78.13021702832543		
+		Blaa fargekanal=78.13021702832543		Filtrert:
+				        SNR_red=72.67972711692467
+				        SNR_green=69.96087480490226
+				        SNR_blue=69.56038941991329
+				Ufiltrert
+				        • SNR_red=58.67520693430674
+				        • SNR_green=59.2467512530947
+				        • SNR_blue=57.97913843337382
+				
+	39*2=78 	Roed fargekanal=80.13355592648914		
+		Groenn fargekanal=80.13355592648914
+		Blaa fargekanal=78.13021702832543
+5	42*2=84 	Roed fargekanal=84.14023372281655		
+		Groenn fargekanal=80.13355592648914
+		Blaa fargekanal=84.14023372281655
+
+
+
+
+Navn	Manuelt 	Kamera
+Maaling1_basis_trans1_ny	36*2=72 	Roed fargekanal=70.1168614357887
+		Groenn fargekanal=74.12353923199802
+		Blaa fargekanal=80.13355592660723
+Maaling1_basis_trans2_ny	35*2=70 	Roed fargekanal=70.1168614357887
+		Groenn fargekanal=70.11686143567061
+		Blaa fargekanal=74.12353923199802
+
