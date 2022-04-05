@@ -1,0 +1,3 @@
+Sno 1 - Stop - Forventningsverdi:  75.24
+Sno 1 - Stop - Varians:  23.32799999999997
+Sno 1 - Stop - Standardavvik:  4.829906831399542
