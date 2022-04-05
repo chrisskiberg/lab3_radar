@@ -1,0 +1,9 @@
+Rød fargekanal - Stop - Forventningsverdi: 3.015999999999997
+Rød fargekanal - Stop - Varians:  2.2009300000000027
+Rød fargekanal - Stop - Standardavvik:  1.4835531672306195
+Blå fargekanal - Stop - Forventningsverdi: 2.663999999999999
+Blå fargekanal - Stop - Varians:  3.8201299999999923
+Blå fargekanal - Stop - Standardavvik:  1.9545152851794207
+Grønne fargekanal - Stop - Forventningsverdi:  3.817999999999995
+Grønne fargekanal - Stop - Varians:  7.630469999999999
+Grønne fargekanal - Stop - Standardavvik:  2.7623305377886984
